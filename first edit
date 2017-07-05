@@ -1,20 +1,28 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
-<title>Taima Crean</title>
+<title>Taima Crean style="color:babypink;" font-family="apple chancery;" style="text-align:center;"</title>
 </head>
-<body style="background-color:powderblue;" >
-<a href="http://tinypic.com?ref=anzh8m" target="_blank"><img src="http://i65.tinypic.com/anzh8m.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+<body style="background-color:powderblue;" font-family="courier;" style="text-aling:left;">
+
+<a href="http://tinypic.com?ref=anzh8m" target="_blank"><img src="http://i65.tinypic.com/anzh8m.jpg" border="0" height="105" width="105" alt="Image and video hosting by TinyPic"></a>
+
 <hr>
-<h1>Biography</h1>
-  <p>My name is Taima Crean, I was born in Seattle, Washington and moved to Novato, California when I was 6. When I was 12 I moved to Washington, DC and now I am a rising senior at the School Without Walls.</p>
-<h1>Likes</h1>
-  <p title="I really love dogs">Puppies, photography, and mint chip icecream are some of my favorite things.</p>
-<h1>Dislikes</h1>
-  <p>Waking up early, burnt popcorn, and impromptu public speaking are some of my least favorite things.</p>
-<h1>Fun Fact</h1>
-  <p>I spend the majority of my time building robots with my FRC team</pddd
+
+<h1>Biography style="color:white;" style="font-size:300%;"</h1>
+  <p>Style="font-size:160%;" My name is Taima Crean, I was born in Seattle, Washington and moved to Novato, California when I was 6. When I was 12 I moved to Washington, DC and now I am a rising senior at the School Without Walls.</p>
+
+<h1>Likes style="color:white;" style="font-size:300%;"</h1>
+  <p title="I really love dogs"> Style="font-size:160%;" Puppies, photography, and mint chip icecream are some of my favorite things.</p>
+
+<h1>Dislikes style="color:white;" style="font-size:300%;"</h1>
+  <p>Style="font-size:160%; "Waking up early, burnt popcorn, and impromptu public speaking are some of my least favorite things.</p>
+
+<h1>Fun Fact style="color:white;" style="font-size:300%;"</h1>
+  <p>style="font-size:160%;"I spend the majority of my time building robots with my FRC team</pddd
+  
   <hr>
+
 <h1>Favorite Web Pages</h1>
   <a href="https://youtube.com"> youtube</a>
 </body>
